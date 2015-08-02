@@ -16,7 +16,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
- function registrar()
+ function registrarme()
  {
     alert("Registrando");
         var pushNotification = window.plugins.pushNotification;
